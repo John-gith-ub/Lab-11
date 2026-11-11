@@ -1,0 +1,5 @@
+Invalid input for factorials: -15
+Invalid input for factorials: abc
+Invalid input for Primes: abc
+inalid Recursion type: boguscommandr
+SumR error: The value r is invalid.
